@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "NetworkService\\NetworkService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\MeteringSimulator\\MeteringSimulator\\MeteringSimulator.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

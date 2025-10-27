@@ -1,0 +1,66 @@
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

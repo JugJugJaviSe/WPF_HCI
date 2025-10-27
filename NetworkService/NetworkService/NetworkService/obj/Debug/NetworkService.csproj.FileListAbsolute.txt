@@ -1,0 +1,135 @@
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\Projekat_SamoVezeFale\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe.config
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\System.ValueTuple.dll
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.pdb
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\Notification.Wpf.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\bin\Debug\System.ValueTuple.xml
+C:\Users\jugov\Documents\prog\Faks\C#\ProjektiFaks\CovekRacunar\PROJEKAT_SVE_RADI_VEZE_I_BOJE\Projekat\NetworkService\NetworkService\NetworkService\obj\Debug\App.baml

@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jugov\\Documents\\prog\\Faks\\C#\\ProjektiFaks\\CovekRacunar\\Projekat\\MeteringSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134D87AD-F428-469F-A98E-5F007EDD241B}|MeteringSimulator\\MeteringSimulator.csproj|c:\\users\\jugov\\documents\\prog\\faks\\c#\\projektifaks\\covekracunar\\projekat\\meteringsimulator\\meteringsimulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{134D87AD-F428-469F-A98E-5F007EDD241B}|MeteringSimulator\\MeteringSimulator.csproj|solutionrelative:meteringsimulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jugov\\Documents\\prog\\Faks\\C#\\ProjektiFaks\\CovekRacunar\\Projekat\\MeteringSimulator\\MeteringSimulator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MeteringSimulator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jugov\\Documents\\prog\\Faks\\C#\\ProjektiFaks\\CovekRacunar\\Projekat\\MeteringSimulator\\MeteringSimulator\\MainWindow.xaml",
+              "RelativeToolTip": "MeteringSimulator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-06T09:46:42.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
